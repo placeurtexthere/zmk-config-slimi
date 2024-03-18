@@ -66,15 +66,15 @@
           { "label":    "Fn4", "row": 3, "col": 15, "x":    14, "y":   14},
 
           { "label":    "Fn1", "row": 4, "col":  0, "x":     0, "y":    0},
-          { "label":  "LCTRL", "row": 4, "col":  1, "x":     1, "y":    1},
-          { "label":   "LALT", "row": 4, "col":  2, "x":     2, "y":    2},
-          { "label":   "LGUI", "row": 4, "col":  3, "x":     3, "y":    3},
-          { "label":  "SPACE", "row": 4, "col":  7, "x":     4, "y":    4},
-          { "label":   "RGUI", "row": 4, "col": 11, "x":     5, "y":    5},
-          { "label":   "RALT", "row": 4, "col": 12, "x":     6, "y":    6},
-          { "label":   "LEFT", "row": 4, "col": 13, "x":     7, "y":    7},
-          { "label":   "DOWN", "row": 4, "col": 14, "x":     8, "y":    8},
-          { "label":  "RIGHT", "row": 4, "col": 15, "x":     9, "y":    9}
+          { "label":  "LCTRL", "row": 4, "col":  1, "x":     1, "y":    0},
+          { "label":   "LALT", "row": 4, "col":  2, "x":     2, "y":    0},
+          { "label":   "LGUI", "row": 4, "col":  3, "x":     3, "y":    0},
+          { "label":  "SPACE", "row": 4, "col":  7, "x":     4, "y":    0},
+          { "label":   "RGUI", "row": 4, "col": 11, "x":     5, "y":    0},
+          { "label":   "RALT", "row": 4, "col": 12, "x":     6, "y":    0},
+          { "label":   "LEFT", "row": 4, "col": 13, "x":     7, "y":    0},
+          { "label":   "DOWN", "row": 4, "col": 14, "x":     8, "y":    0},
+          { "label":  "RIGHT", "row": 4, "col": 15, "x":     9, "y":    0}
         ]
       }
     },

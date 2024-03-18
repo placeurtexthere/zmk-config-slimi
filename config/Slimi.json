@@ -74,7 +74,7 @@
           { "label":   "RALT", "row": 4, "col": 12, "x":     6, "y":    4},
           { "label":   "LEFT", "row": 4, "col": 13, "x":     7, "y":    4},
           { "label":   "DOWN", "row": 4, "col": 14, "x":     8, "y":    4},
-          { "label":  "RIGHT", "row": 4, "col": 15, "x":     9, "y":    4}
+          { "label":  "RIGHT", "row": 4, "col": 15, "x":     15, "y":    4}
         ]
       }
     },

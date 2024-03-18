@@ -22,7 +22,7 @@
                 &none                       &none         &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none                    &none
                 &none                       &none         &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &bootloader  &none       &none
                 &none         &none         &none         &none  &none  &none  &none  &none  &none  &none  &none  &none         &none        &none       &none
-                &none         &none         &none         &none                       &none                       &none  &none  &none        &none       &none
+                &none         &none         &none         &none                       &none                       &none  &none  &none        &none
             >;
         };
     };

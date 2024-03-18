@@ -1,0 +1,97 @@
+{
+    "layouts": {
+      "LAYOUT": {
+        "layout": [
+          { "label":      "0", "row": 0, "col":  0, "x":     0, "y":    0},
+          { "label":      "1", "row": 0, "col":  1, "x":     1, "y":    1},
+          { "label":      "2", "row": 0, "col":  2, "x":     2, "y":    2},
+          { "label":      "3", "row": 0, "col":  3, "x":     3, "y":    3},
+          { "label":      "4", "row": 0, "col":  4, "x":     4, "y":    4},
+          { "label":      "5", "row": 0, "col":  5, "x":     5, "y":    5},
+          { "label":      "6", "row": 0, "col":  6, "x":     6, "y":    6},
+          { "label":      "7", "row": 0, "col":  7, "x":     7, "y":    7},
+          { "label":      "8", "row": 0, "col":  8, "x":     8, "y":    8},
+          { "label":      "9", "row": 0, "col":  9, "x":     9, "y":    9},
+          { "label":      "Ö", "row": 0, "col": 10, "x":    10, "y":   10},
+          { "label":      "Ü", "row": 0, "col": 11, "x":    11, "y":   11},
+          { "label":      "Ó", "row": 0, "col": 12, "x":    12, "y":   12},
+          { "label":   "BSPC", "row": 0, "col": 14, "x":    13, "y":   13},
+          { "label":    "ESC", "row": 0, "col": 15, "x":    14, "y":   14},
+
+          { "label":    "TAB", "row": 1, "col":  0, "x":     0, "y":    0},
+          { "label":      "Q", "row": 1, "col":  2, "x":     1, "y":    1},
+          { "label":      "W", "row": 1, "col":  3, "x":     2, "y":    2},
+          { "label":      "E", "row": 1, "col":  4, "x":     3, "y":    3},
+          { "label":      "R", "row": 1, "col":  5, "x":     4, "y":    4},
+          { "label":      "T", "row": 1, "col":  6, "x":     5, "y":    5},
+          { "label":      "Z", "row": 1, "col":  7, "x":     6, "y":    6},
+          { "label":      "U", "row": 1, "col":  8, "x":     7, "y":    7},
+          { "label":      "I", "row": 1, "col":  9, "x":     8, "y":    8},
+          { "label":      "O", "row": 1, "col": 10, "x":     9, "y":    9},
+          { "label":      "P", "row": 1, "col": 11, "x":    10, "y":   10},
+          { "label":      "Ő", "row": 1, "col": 12, "x":    11, "y":   11},
+          { "label":      "Ú", "row": 1, "col": 13, "x":    12, "y":   12},
+          { "label":    "Fn2", "row": 1, "col": 15, "x":    13, "y":   13},
+
+          { "label":   "CAPS", "row": 2, "col":  0, "x":     0, "y":    0},
+          { "label":      "A", "row": 2, "col":  2, "x":     1, "y":    1},
+          { "label":      "S", "row": 2, "col":  3, "x":     2, "y":    2},
+          { "label":      "D", "row": 2, "col":  4, "x":     3, "y":    3},
+          { "label":      "F", "row": 2, "col":  5, "x":     4, "y":    4},
+          { "label":      "G", "row": 2, "col":  6, "x":     5, "y":    5},
+          { "label":      "H", "row": 2, "col":  7, "x":     6, "y":    6},
+          { "label":      "J", "row": 2, "col":  8, "x":     7, "y":    7},
+          { "label":      "K", "row": 2, "col":  9, "x":     8, "y":    8},
+          { "label":      "L", "row": 2, "col": 10, "x":     9, "y":    9},
+          { "label":      "É", "row": 2, "col": 11, "x":    10, "y":   10},
+          { "label":      "Á", "row": 2, "col": 12, "x":    11, "y":   11},
+          { "label":      "Ű", "row": 2, "col": 13, "x":    12, "y":   12},
+          { "label":  "ENTER", "row": 2, "col": 14, "x":    13, "y":   13},
+          { "label":    "Fn3", "row": 2, "col": 15, "x":    14, "y":   14},
+
+          { "label": "LSHIFT", "row": 3, "col":  0, "x":     0, "y":    0},
+          { "label":      "Í", "row": 3, "col":  1, "x":     1, "y":    1},
+          { "label":      "Y", "row": 3, "col":  2, "x":     2, "y":    2},
+          { "label":      "X", "row": 3, "col":  3, "x":     3, "y":    3},
+          { "label":      "C", "row": 3, "col":  4, "x":     4, "y":    4},
+          { "label":      "V", "row": 3, "col":  5, "x":     5, "y":    5},
+          { "label":      "B", "row": 3, "col":  6, "x":     6, "y":    6},
+          { "label":      "N", "row": 3, "col":  7, "x":     7, "y":    7},
+          { "label":      "M", "row": 3, "col":  8, "x":     8, "y":    8},
+          { "label":      ",", "row": 3, "col":  9, "x":     9, "y":    9},
+          { "label":      ".", "row": 3, "col": 10, "x":    10, "y":   10},
+          { "label":      "-", "row": 3, "col": 11, "x":    11, "y":   11},
+          { "label": "RSHIFT", "row": 3, "col": 13, "x":    12, "y":   12},
+          { "label":     "UP", "row": 3, "col": 14, "x":    13, "y":   13},
+          { "label":    "Fn4", "row": 3, "col": 15, "x":    14, "y":   14},
+
+          { "label":    "Fn1", "row": 3, "col":  0, "x":     0, "y":    0},
+          { "label":  "LCTRL", "row": 3, "col":  1, "x":     1, "y":    1},
+          { "label":   "LALT", "row": 3, "col":  2, "x":     2, "y":    2},
+          { "label":   "LGUI", "row": 3, "col":  3, "x":     3, "y":    3},
+          { "label":  "SPACE", "row": 3, "col":  7, "x":     4, "y":    4},
+          { "label":   "RGUI", "row": 3, "col": 11, "x":     5, "y":    5},
+          { "label":   "RALT", "row": 3, "col": 12, "x":     6, "y":    6},
+          { "label":   "LEFT", "row": 3, "col": 13, "x":     7, "y":    7},
+          { "label":   "DOWN", "row": 3, "col": 14, "x":     8, "y":    8},
+          { "label":  "RIGHT", "row": 3, "col": 15, "x":     9, "y":    9}
+        ]
+      }
+    },
+    "sensors": [
+      {
+        "ref": "left_encoder",
+        "name": "encoder_left",
+        "identifier": "encoder_left",
+        "compatible": "alps,ec11",
+        "label": "LEFT_ENCODER"
+      },
+      {
+        "ref": "right_encoder",
+        "name": "encoder_right",
+        "identifier": "encoder_right",
+        "compatible": "alps,ec11",
+        "label": "RIGHT_ENCODER"
+      }
+    ]
+  }

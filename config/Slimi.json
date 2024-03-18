@@ -62,8 +62,8 @@
           { "label":      ".", "row": 3, "col": 10, "x":    10.25, "y":    3},
           { "label":      "-", "row": 3, "col": 11, "x":    11.25, "y":    3},
           { "label": "RSHIFT", "row": 3, "col": 13, "x":    12.25, "y":    3, "w": 1.75},
-          { "label":     "UP", "row": 3, "col": 14, "x":    13, "y":    3},
-          { "label":    "Fn4", "row": 3, "col": 15, "x":    14, "y":    3},
+          { "label":     "UP", "row": 3, "col": 14, "x":    14, "y":    3},
+          { "label":    "Fn4", "row": 3, "col": 15, "x":    15, "y":    3},
 
           { "label":    "Fn1", "row": 4, "col":  0, "x":     0, "y":    4},
           { "label":  "LCTRL", "row": 4, "col":  1, "x":     1, "y":    4},

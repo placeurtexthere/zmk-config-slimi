@@ -8,10 +8,10 @@
 
         default_layer {
             bindings = <
-&kp KP_N0   &kp N1     &kp N2    &kp N3    &kp N4  &kp N5  &kp N6  &kp N7     &kp N8  &kp N9     &kp N0   &kp MINUS  &kp EQUAL              &kp BSPC   &kp LA(LS(NUMBER_3))
-&kp TAB                &kp Q     &kp W     &kp E   &kp R   &kp T   &kp Y      &kp U   &kp I      &kp O    &kp P      &kp LBKT   &kp RBKT               &kp LG(W)
-&kp CAPS               &kp A     &kp S     &kp D   &kp F   &kp G   &kp H      &kp J   &kp K      &kp L    &kp SEMI   &kp SQT    &kp BSLH    &kp ENTER  &kp LG(S)
-&kp LSHIFT  &kp GRAVE  &kp Z     &kp X     &kp C   &kp V   &kp B   &kp N      &kp M   &kp COMMA  &kp DOT  &kp FSLH              &kp RSHIFT  &kp UP     &trans
+&kp KP_N0   &kp N1     &kp N2    &kp N3    &kp N4  &kp N5  &kp N6  &kp N7     &kp N8  &kp N9     &kp N0   &kp MINUS  &kp EQUAL              &kp BSPC   &kp ESCAPE
+&kp TAB                &kp Q     &kp W     &kp E   &kp R   &kp T   &kp Y      &kp U   &kp I      &kp O    &kp P      &kp LBKT   &kp RBKT               &kp LS(LA(NUMBER_3))
+&kp CAPS               &kp A     &kp S     &kp D   &kp F   &kp G   &kp H      &kp J   &kp K      &kp L    &kp SEMI   &kp SQT    &kp BSLH    &kp ENTER  &kp LG(W)
+&kp LSHIFT  &kp GRAVE  &kp Z     &kp X     &kp C   &kp V   &kp B   &kp N      &kp M   &kp COMMA  &kp DOT  &kp FSLH              &kp RSHIFT  &kp UP     &kp LG(S)
 &mo 1       &kp LCTRL  &kp LALT  &kp LGUI                          &kp SPACE                              &kp RGUI   &kp RALT   &kp LEFT    &kp DOWN   &kp RIGHT
             >;
         };

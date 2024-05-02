@@ -7,9 +7,10 @@
         unfav_close: unfav_close {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp F &kp RG(W)>;
+            bindings = <&kp F &kp RG(W)>, <&macro_press>;
+
             label = "UNFAV_CLOSE";
-            wait-ms = <1000>;
+            wait-ms = <500>;
         };
     };
 

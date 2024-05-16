@@ -10,7 +10,7 @@
             bindings = <&kp F &kp RG(W)>, <&macro_press>;
 
             label = "UNFAV_CLOSE";
-            wait-ms = <250>;
+            wait-ms = <150>;
         };
     };
 
